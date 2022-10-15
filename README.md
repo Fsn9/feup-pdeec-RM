@@ -4,4 +4,5 @@
 
 1. Direct Kinematics
 - DH table:
+
 ![alt text](https://github.com/Fsn9/feup-pdeec-RM/blob/main/images/dh_table.png)
