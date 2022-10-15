@@ -10,7 +10,7 @@ def H(theta, d, a, alpha):
 
 # Direct kinematics
 ## 1. Parameters
-theta1, theta2, theta3, theta4 = 0,np.deg2rad(90),0,0
+theta1, theta2, theta3, theta4 = 0, np.deg2rad(90), 0, 0
 d1, d2, d3, d4 = 1, 0, 0, 0
 a1, a2, a3, a4 = 0, 1, 1, 1
 alpha1, alpha2, alpha3, alpha4 = np.deg2rad(90), 0, 0, 0
